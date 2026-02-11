@@ -1,0 +1,1 @@
+python "C:\Users\arthur.pseixas\OneDrive - Grupo Aguas do Brasil\Área de Trabalho\OFICINA\src\equipamentos_oficina.py"
